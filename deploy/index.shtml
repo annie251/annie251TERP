@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Page for Deployment on Render</title>
+</head>
+<body>
+<h1>Page for Deployment on Render</h1>
+<ul>
+    <li><strong>Name:</strong> Annie Nguyen</li>
+    <li><strong>Github Location:</strong> Annie Nguyen</li>
+    <li><strong>Render Location:</strong> Annie Nguyen</li>
+    <li><strong>Clearing Database Movies:</strong> Annie Nguyen</li>
+    <li><strong>Name:</strong> Annie Nguyen</li>
+</ul>
+
+</body>
+</html>

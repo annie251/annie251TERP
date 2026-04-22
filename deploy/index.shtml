@@ -11,10 +11,11 @@
 <h1>Page for Deployment on Render</h1>
 <ul>
     <li><strong>Name:</strong> Annie Nguyen</li>
-    <li><strong>Github Location:</strong> Annie Nguyen</li>
-    <li><strong>Render Location:</strong> Annie Nguyen</li>
-    <li><strong>Clearing Database Movies:</strong> Annie Nguyen</li>
-    <li><strong>Name:</strong> Annie Nguyen</li>
+    <li><strong>Github Location:</strong> <a aref="https://github.com/annie251/annie251TERP">https://github.com/annie251/annie251TERP</a></li>
+    <li><strong>Render Location:</strong> <a href="https://annie251terp.onrender.com/">https://annie251terp.onrender.com/</a></li>
+    <li><strong>Clearing Database Movies:</strong> <a href="https://annie251terp.onrender.com/clearCollection">https://annie251terp.onrender.com/clearCollection</a></li>
+    <li><strong>Inserting Movies:</strong> <a href="https://annie251terp.onrender.com/insertMovies">https://annie251terp.onrender.com/insertMovies</li>
+    <li><strong>List Movies:</strong> <a href="https://annie251terp.onrender.com/listMovies">https://annie251terp.onrender.com/listMovies</li>
 </ul>
 
 </body>
